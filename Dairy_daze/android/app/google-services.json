@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "439520952864",
+    "project_id": "auth-23426",
+    "storage_bucket": "auth-23426.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439520952864:android:16684cc584fe731942f245",
+        "android_client_info": {
+          "package_name": "com.example.dairy_daze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439520952864-vdsh839hhg8hr6j5ua7muov6m2s5mpf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dairy_daze",
+            "certificate_hash": "7d4982d2dd79ac94bccbe60e5b94dd966b902bd3"
+          }
+        },
+        {
+          "client_id": "439520952864-tmpao8l91a4eguehasfsutrv3ceknmbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmrnSgX3vcLDN4NilVZp0TtR7cVay0Bwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439520952864-89tidm5b9ppoenu340e334p6603fmck8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "439520952864-aon83abov46jo4lmgu4a0jg54stihkm1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.dairyDaze"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
