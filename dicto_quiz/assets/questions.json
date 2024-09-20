@@ -1,0 +1,1288 @@
+[
+  {
+    "id": 1,
+    "question_text": "Which word is the synonym of 'Quick'?",
+    "options": ["Slow", "Hasty", "Lazy", "Dull"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 2,
+    "question_text": "Which word is the antonym of 'Brave'?",
+    "options": ["Bold", "Coward", "Strong", "Mighty"],
+    "correct_answer": 1,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 3,
+    "question_text": "Choose the correctly spelled word.",
+    "options": ["Occassion", "Occasion", "Ocassion", "Occasson"],
+    "correct_answer": 1,
+    "topic": "Spellings"
+  },
+  {
+    "id": 4,
+    "question_text": "Which word best fits: 'She _____ her homework before dinner.'",
+    "options": ["finish", "finished", "finishes", "finishing"],
+    "correct_answer": 1,
+    "topic": "Selecting Words"
+  },
+  {
+    "id": 5,
+    "question_text": "Which sentence is correct?",
+    "options": [
+      "She don't like coffee.",
+      "She does not likes coffee.",
+      "She doesn't likes coffee.",
+      "She does not like coffee."
+    ],
+    "correct_answer": 3,
+    "topic": "Sentence Formation"
+  },
+  {
+    "id": 6,
+    "question_text": "Choose the one word substitute: 'A person who talks too much.'",
+    "options": ["Taciturn", "Loquacious", "Lethargic", "Timid"],
+    "correct_answer": 1,
+    "topic": "One Word Substitutes"
+  },
+  {
+    "id": 7,
+    "question_text": "Which word is the antonym of 'Generous'?",
+    "options": ["Kind", "Selfish", "Helpful", "Caring"],
+    "correct_answer": 1,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 8,
+    "question_text": "Select the correct form: 'He _____ in a factory for five years.'",
+    "options": ["has worked", "have worked", "has been worked", "had worked"],
+    "correct_answer": 0,
+    "topic": "Sentence Formation"
+  },
+  {
+    "id": 9,
+    "question_text": "Complete the sentence: 'The train arrived _____ time.'",
+    "options": ["in", "on", "at", "by"],
+    "correct_answer": 1,
+    "topic": "Completing Statements"
+  },
+  {
+    "id": 10,
+    "question_text": "Choose the correctly spelled word.",
+    "options": ["Grammer", "Grammar", "Grammer", "Grammer"],
+    "correct_answer": 1,
+    "topic": "Spellings"
+  },
+  {
+    "id": 11,
+    "question_text": "Which word is the synonym of 'Beautiful'?",
+    "options": ["Ugly", "Pretty", "Dirty", "Messy"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 12,
+    "question_text": "Which sentence is correct?",
+    "options": [
+      "I has gone to the market.",
+      "I have went to the market.",
+      "I had went to the market.",
+      "I have gone to the market."
+    ],
+    "correct_answer": 3,
+    "topic": "Sentence Correction"
+  },
+  {
+    "id": 13,
+    "question_text": "Choose the correct voice: 'He was helped by his friends.'",
+    "options": [
+      "His friends help him.",
+      "His friends are helping him.",
+      "His friends helped him.",
+      "His friends had helped him."
+    ],
+    "correct_answer": 2,
+    "topic": "Change of Voice"
+  },
+  {
+    "id": 14,
+    "question_text": "Which idiom means 'to make a long story short'?",
+    "options": ["Cut to the chase", "Hit the nail on the head", "Bite the bullet", "Barking up the wrong tree"],
+    "correct_answer": 0,
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "id": 15,
+    "question_text": "Which word best completes: 'He _____ his exam yesterday.'",
+    "options": ["give", "gave", "given", "gives"],
+    "correct_answer": 1,
+    "topic": "Sentence Formation"
+  },
+  {
+    "id": 16,
+    "question_text": "Choose the correctly spelled word.",
+    "options": ["Maintainance", "Maintenance", "Maintenence", "Mantainance"],
+    "correct_answer": 1,
+    "topic": "Spellings"
+  },
+  {
+    "id": 17,
+    "question_text": "Which word is the synonym of 'Weak'?",
+    "options": ["Strong", "Frail", "Robust", "Mighty"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 18,
+    "question_text": "Which word is the antonym of 'Permanent'?",
+    "options": ["Fixed", "Temporary", "Eternal", "Stable"],
+    "correct_answer": 1,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 19,
+    "question_text": "Choose the correct indirect speech: 'She said, “I am going to the market.”'",
+    "options": [
+      "She said that she is going to the market.",
+      "She said that she has gone to the market.",
+      "She said that she was going to the market.",
+      "She said she is going to the market."
+    ],
+    "correct_answer": 2,
+    "topic": "Change of Speech"
+  },
+  {
+    "id": 20,
+    "question_text": "Choose the correct word: 'The _____ of the play was excellent.'",
+    "options": ["directer", "director", "diretor", "dirrector"],
+    "correct_answer": 1,
+    "topic": "Selecting Words"
+  },
+    {
+      "id": 21,
+      "question_text": "Which word is the antonym of 'Expand'?",
+      "options": ["Contract", "Increase", "Stretch", "Widen"],
+      "correct_answer": 0,
+      "topic": "Antonyms"
+    },
+    {
+      "id": 22,
+      "question_text": "Choose the correctly spelled word.",
+      "options": ["Accomodate", "Accommodate", "Acomodate", "Acommodate"],
+      "correct_answer": 1,
+      "topic": "Spellings"
+    },
+    {
+      "id": 23,
+      "question_text": "Choose the correct form: 'They _____ tennis every Sunday.'",
+      "options": ["play", "plays", "played", "playing"],
+      "correct_answer": 0,
+      "topic": "Sentence Formation"
+    },
+    {
+      "id": 24,
+      "question_text": "Which sentence is correct?",
+      "options": [
+        "He can able to do it.",
+        "He is can do it.",
+        "He can do it.",
+        "He will can do it."
+      ],
+      "correct_answer": 2,
+      "topic": "Sentence Correction"
+    },
+    {
+      "id": 25,
+      "question_text": "Choose the one word substitute: 'A place where books are kept.'",
+      "options": ["Library", "Museum", "Archive", "Gallery"],
+      "correct_answer": 0,
+      "topic": "One Word Substitutes"
+    },
+    {
+      "id": 26,
+      "question_text": "Complete the sentence: 'I _____ a new bicycle yesterday.'",
+      "options": ["buy", "bought", "buys", "buying"],
+      "correct_answer": 1,
+      "topic": "Completing Statements"
+    },
+    {
+      "id": 27,
+      "question_text": "Which idiom means 'to reveal a secret'?",
+      "options": ["Spill the beans", "Bite the dust", "Cut corners", "Burn the midnight oil"],
+      "correct_answer": 0,
+      "topic": "Idioms and Phrases"
+    },
+    {
+      "id": 28,
+      "question_text": "Which word is the synonym of 'Difficult'?",
+      "options": ["Easy", "Hard", "Simple", "Clear"],
+      "correct_answer": 1,
+      "topic": "Synonyms"
+    },
+    {
+      "id": 29,
+      "question_text": "Which word is the antonym of 'Weak'?",
+      "options": ["Strong", "Feeble", "Soft", "Delicate"],
+      "correct_answer": 0,
+      "topic": "Antonyms"
+    },
+    {
+      "id": 30,
+      "question_text": "Choose the correct indirect speech: 'He said, “I will call you tomorrow.”'",
+      "options": [
+        "He said that he will call me tomorrow.",
+        "He said that he will call me the next day.",
+        "He said that he would call me the next day.",
+        "He said he will call me tomorrow."
+      ],
+      "correct_answer": 2,
+      "topic": "Change of Speech"
+    },
+    {
+      "id": 31,
+      "question_text": "Choose the correct form: 'She _____ to school every day.'",
+      "options": ["go", "goes", "gone", "going"],
+      "correct_answer": 1,
+      "topic": "Sentence Formation"
+    },
+    {
+      "id": 32,
+      "question_text": "Choose the correctly spelled word.",
+      "options": ["Recieve", "Receive", "Receve", "Receave"],
+      "correct_answer": 1,
+      "topic": "Spellings"
+    },
+    {
+      "id": 33,
+      "question_text": "Which sentence is correct?",
+      "options": [
+        "I doesn't like tea.",
+        "I don't like tea.",
+        "I aren't like tea.",
+        "I amn't like tea."
+      ],
+      "correct_answer": 1,
+      "topic": "Sentence Correction"
+    },
+    {
+      "id": 34,
+      "question_text": "Choose the one word substitute: 'A person who writes books.'",
+      "options": ["Author", "Editor", "Reader", "Publisher"],
+      "correct_answer": 0,
+      "topic": "One Word Substitutes"
+    },
+    {
+      "id": 35,
+      "question_text": "Complete the sentence: 'She _____ to the market yesterday.'",
+      "options": ["go", "gone", "went", "going"],
+      "correct_answer": 2,
+      "topic": "Completing Statements"
+    },
+    {
+      "id": 36,
+      "question_text": "Which idiom means 'to work very hard'?",
+      "options": ["Bite the bullet", "Burn the midnight oil", "Hit the sack", "Cut to the chase"],
+      "correct_answer": 1,
+      "topic": "Idioms and Phrases"
+    },
+    {
+      "id": 37,
+      "question_text": "Which word is the synonym of 'Smart'?",
+      "options": ["Dull", "Intelligent", "Slow", "Foolish"],
+      "correct_answer": 1,
+      "topic": "Synonyms"
+    },
+    {
+      "id": 38,
+      "question_text": "Which word is the antonym of 'Tall'?",
+      "options": ["Short", "Slim", "Fat", "Wide"],
+      "correct_answer": 0,
+      "topic": "Antonyms"
+    },
+    {
+      "id": 39,
+      "question_text": "Choose the correct indirect speech: 'She said, “I am leaving now.”'",
+      "options": [
+        "She said that she was leaving then.",
+        "She said that she is leaving now.",
+        "She said that she was leaving now.",
+        "She said that she is leaving then."
+      ],
+      "correct_answer": 0,
+      "topic": "Change of Speech"
+    },
+    {
+      "id": 40,
+      "question_text": "Which word best completes: 'He is _____ than his brother.'",
+      "options": ["tall", "taller", "tallest", "most tall"],
+      "correct_answer": 1,
+      "topic": "Sentence Formation"
+    },
+  {
+    "id": 41,
+    "question_text": "Which word is the synonym of 'Brave'?",
+    "options": ["Cowardly", "Bold", "Fearful", "Shy"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 42,
+    "question_text": "Which word is the antonym of 'Artificial'?",
+    "options": ["Synthetic", "Natural", "Fake", "Imitation"],
+    "correct_answer": 1,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 43,
+    "question_text": "Choose the correctly spelled word.",
+    "options": ["Comittee", "Committee", "Comitte", "Comitteee"],
+    "correct_answer": 1,
+    "topic": "Spellings"
+  },
+  {
+    "id": 44,
+    "question_text": "Choose the correct form: 'They _____ to the movies yesterday.'",
+    "options": ["go", "goes", "went", "gone"],
+    "correct_answer": 2,
+    "topic": "Sentence Formation"
+  },
+  {
+    "id": 45,
+    "question_text": "Which sentence is correct?",
+    "options": [
+      "She has went to the store.",
+      "She has gone to the store.",
+      "She has go to the store.",
+      "She has going to the store."
+    ],
+    "correct_answer": 1,
+    "topic": "Sentence Correction"
+  },
+  {
+    "id": 46,
+    "question_text": "Choose the one word substitute: 'A person who travels into space.'",
+    "options": ["Astronomer", "Cosmonaut", "Astronaut", "Pilot"],
+    "correct_answer": 2,
+    "topic": "One Word Substitutes"
+  },
+  {
+    "id": 47,
+    "question_text": "Complete the sentence: 'They _____ to visit their grandparents every summer.'",
+    "options": ["used", "use", "uses", "using"],
+    "correct_answer": 0,
+    "topic": "Completing Statements"
+  },
+  {
+    "id": 48,
+    "question_text": "Which idiom means 'to take a risk'?",
+    "options": ["Take a backseat", "Bite the bullet", "Break the ice", "Take the plunge"],
+    "correct_answer": 3,
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "id": 49,
+    "question_text": "Which word is the synonym of 'Diligent'?",
+    "options": ["Lazy", "Hardworking", "Careless", "Negligent"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 50,
+    "question_text": "Which word is the antonym of 'Humble'?",
+    "options": ["Arrogant", "Polite", "Modest", "Shy"],
+    "correct_answer": 0,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 51,
+    "question_text": "Choose the correct indirect speech: 'They said, “We are going to the party.”'",
+    "options": [
+      "They said that they are going to the party.",
+      "They said that they were going to the party.",
+      "They said that we were going to the party.",
+      "They said that we are going to the party."
+    ],
+    "correct_answer": 1,
+    "topic": "Change of Speech"
+  },
+  {
+    "id": 52,
+    "question_text": "Choose the correct form: 'She _____ very hard to pass the exam.'",
+    "options": ["work", "works", "worked", "working"],
+    "correct_answer": 2,
+    "topic": "Sentence Formation"
+  },
+  {
+    "id": 53,
+    "question_text": "Choose the correctly spelled word.",
+    "options": ["Acquaintance", "Acquantance", "Acquintance", "Aquantance"],
+    "correct_answer": 0,
+    "topic": "Spellings"
+  },
+  {
+    "id": 54,
+    "question_text": "Which sentence is correct?",
+    "options": [
+      "The weather are very cold today.",
+      "The weather is very cold today.",
+      "The weathers is very cold today.",
+      "The weather is being very cold today."
+    ],
+    "correct_answer": 1,
+    "topic": "Sentence Correction"
+  },
+  {
+    "id": 55,
+    "question_text": "Choose the one word substitute: 'A person who loves books.'",
+    "options": ["Bibliophile", "Author", "Reader", "Critic"],
+    "correct_answer": 0,
+    "topic": "One Word Substitutes"
+  },
+  {
+    "id": 56,
+    "question_text": "Complete the sentence: 'He _____ a new car last week.'",
+    "options": ["buy", "buys", "bought", "buying"],
+    "correct_answer": 2,
+    "topic": "Completing Statements"
+  },
+  {
+    "id": 57,
+    "question_text": "Which idiom means 'to end something abruptly'?",
+    "options": ["Call it a day", "Cut to the chase", "Turn a blind eye", "Break the ice"],
+    "correct_answer": 0,
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "id": 58,
+    "question_text": "Which word is the synonym of 'Generous'?",
+    "options": ["Selfish", "Kind", "Greedy", "Rude"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 59,
+    "question_text": "Which word is the antonym of 'Sharp'?",
+    "options": ["Blunt", "Pointed", "Keen", "Clever"],
+    "correct_answer": 0,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 60,
+    "question_text": "Choose the correct indirect speech: 'She said, “I am going to study tomorrow.”'",
+    "options": [
+      "She said that she is going to study tomorrow.",
+      "She said that she was going to study tomorrow.",
+      "She said that she would study the next day.",
+      "She said that she will study tomorrow."
+    ],
+    "correct_answer": 2,
+    "topic": "Change of Speech"
+  },
+  {
+    "id": 61,
+    "question_text": "Which word is the synonym of 'Excited'?",
+    "options": ["Bored", "Indifferent", "Thrilled", "Calm"],
+    "correct_answer": 2,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 62,
+    "question_text": "Which word is the antonym of 'Peaceful'?",
+    "options": ["Quiet", "Tranquil", "Chaotic", "Serene"],
+    "correct_answer": 2,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 63,
+    "question_text": "Choose the correctly spelled word.",
+    "options": ["Recieve", "Receive", "Receeve", "Recive"],
+    "correct_answer": 1,
+    "topic": "Spellings"
+  },
+  {
+    "id": 64,
+    "question_text": "Complete the sentence: 'She _____ to the gym every morning.'",
+    "options": ["go", "goes", "went", "going"],
+    "correct_answer": 1,
+    "topic": "Sentence Formation"
+  },
+  {
+    "id": 65,
+    "question_text": "Which sentence is correct?",
+    "options": [
+      "He have finished his homework.",
+      "He has finished his homework.",
+      "He has finish his homework.",
+      "He has finishing his homework."
+    ],
+    "correct_answer": 1,
+    "topic": "Sentence Correction"
+  },
+  {
+    "id": 66,
+    "question_text": "Choose the one word substitute: 'A place where animals are kept.'",
+    "options": ["Farm", "Zoo", "Habitat", "Circus"],
+    "correct_answer": 1,
+    "topic": "One Word Substitutes"
+  },
+  {
+    "id": 67,
+    "question_text": "Complete the sentence: 'We _____ the project before the deadline.'",
+    "options": ["completed", "completing", "complete", "have complete"],
+    "correct_answer": 0,
+    "topic": "Completing Statements"
+  },
+  {
+    "id": 68,
+    "question_text": "Which idiom means 'to be very happy'?",
+    "options": ["Hit the roof", "On cloud nine", "Kick the bucket", "Let the cat out of the bag"],
+    "correct_answer": 1,
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "id": 69,
+    "question_text": "Which word is the synonym of 'Weak'?",
+    "options": ["Strong", "Fragile", "Tough", "Firm"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 70,
+    "question_text": "Which word is the antonym of 'Bright'?",
+    "options": ["Dark", "Clear", "Shiny", "Radiant"],
+    "correct_answer": 0,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 71,
+    "question_text": "Choose the correct indirect speech: 'He said, “I will call you tomorrow.”'",
+    "options": [
+      "He said that he would call me tomorrow.",
+      "He said that he will call me tomorrow.",
+      "He said that he would call me the next day.",
+      "He said that he would call me next day."
+    ],
+    "correct_answer": 2,
+    "topic": "Change of Speech"
+  },
+  {
+    "id": 72,
+    "question_text": "Choose the correct form: 'They _____ their homework by the time we arrived.'",
+    "options": ["finish", "finishes", "finished", "had finished"],
+    "correct_answer": 3,
+    "topic": "Sentence Formation"
+  },
+  {
+    "id": 73,
+    "question_text": "Choose the correctly spelled word.",
+    "options": ["Feburary", "February", "Febuary", "Febury"],
+    "correct_answer": 1,
+    "topic": "Spellings"
+  },
+  {
+    "id": 74,
+    "question_text": "Which sentence is correct?",
+    "options": [
+      "She don't like coffee.",
+      "She doesn't likes coffee.",
+      "She doesn't like coffee.",
+      "She isn't like coffee."
+    ],
+    "correct_answer": 2,
+    "topic": "Sentence Correction"
+  },
+  {
+    "id": 75,
+    "question_text": "Choose the one word substitute: 'A person who writes books.'",
+    "options": ["Editor", "Publisher", "Author", "Reader"],
+    "correct_answer": 2,
+    "topic": "One Word Substitutes"
+  },
+  {
+    "id": 76,
+    "question_text": "Complete the sentence: 'He _____ to play the guitar when he was young.'",
+    "options": ["use", "used", "uses", "using"],
+    "correct_answer": 1,
+    "topic": "Completing Statements"
+  },
+  {
+    "id": 77,
+    "question_text": "Which idiom means 'to ignore something important'?",
+    "options": ["Turn a blind eye", "Make ends meet", "Go the extra mile", "Hit the nail on the head"],
+    "correct_answer": 0,
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "id": 78,
+    "question_text": "Which word is the synonym of 'Polite'?",
+    "options": ["Rude", "Courteous", "Disrespectful", "Harsh"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 79,
+    "question_text": "Which word is the antonym of 'Confident'?",
+    "options": ["Bold", "Self-assured", "Nervous", "Calm"],
+    "correct_answer": 2,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 80,
+    "question_text": "Choose the correct indirect speech: 'She said, “I am feeling better now.”'",
+    "options": [
+      "She said that she was feeling better now.",
+      "She said that she is feeling better now.",
+      "She said that she was feeling better then.",
+      "She said that she was feeling better."
+    ],
+    "correct_answer": 2,
+    "topic": "Change of Speech"
+  },
+  {
+    "id": 81,
+    "question_text": "Which word is the synonym of 'Brave'?",
+    "options": ["Cowardly", "Fearless", "Timid", "Shy"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 82,
+    "question_text": "Which word is the antonym of 'Cheap'?",
+    "options": ["Expensive", "Affordable", "Inexpensive", "Bargain"],
+    "correct_answer": 0,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 83,
+    "question_text": "Choose the correctly spelled word.",
+    "options": ["Tommorow", "Tomorow", "Tomorrow", "Tomarrow"],
+    "correct_answer": 2,
+    "topic": "Spellings"
+  },
+  {
+    "id": 84,
+    "question_text": "Complete the sentence: 'I _____ to visit my grandparents every summer.'",
+    "options": ["used", "use", "uses", "am used"],
+    "correct_answer": 1,
+    "topic": "Sentence Formation"
+  },
+  {
+    "id": 85,
+    "question_text": "Which sentence is correct?",
+    "options": [
+      "The book were on the table.",
+      "The books was on the table.",
+      "The books were on the table.",
+      "The book was on the table."
+    ],
+    "correct_answer": 2,
+    "topic": "Sentence Correction"
+  },
+  {
+    "id": 86,
+    "question_text": "Choose the one word substitute: 'A person who studies the stars.'",
+    "options": ["Astronomer", "Geologist", "Astrologer", "Biologist"],
+    "correct_answer": 0,
+    "topic": "One Word Substitutes"
+  },
+  {
+    "id": 87,
+    "question_text": "Complete the sentence: 'She _____ her assignment before the deadline.'",
+    "options": ["submit", "submits", "submitted", "has submit"],
+    "correct_answer": 2,
+    "topic": "Completing Statements"
+  },
+  {
+    "id": 88,
+    "question_text": "Which idiom means 'to be nervous or worried'?",
+    "options": ["Hit the hay", "Bite the bullet", "Break the ice", "Butterflies in your stomach"],
+    "correct_answer": 3,
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "id": 89,
+    "question_text": "Which word is the synonym of 'Smart'?",
+    "options": ["Dull", "Intelligent", "Slow", "Dumb"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 90,
+    "question_text": "Which word is the antonym of 'Agree'?",
+    "options": ["Disagree", "Approve", "Support", "Accept"],
+    "correct_answer": 0,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 91,
+    "question_text": "Choose the correct indirect speech: 'She said, “I have completed my work.”'",
+    "options": [
+      "She said that she has completed her work.",
+      "She said that she had completed her work.",
+      "She said that she will complete her work.",
+      "She said that she is completing her work."
+    ],
+    "correct_answer": 1,
+    "topic": "Change of Speech"
+  },
+  {
+    "id": 92,
+    "question_text": "Complete the sentence: 'They _____ the answer to the question.'",
+    "options": ["know", "knows", "knowing", "knew"],
+    "correct_answer": 0,
+    "topic": "Sentence Formation"
+  },
+  {
+    "id": 93,
+    "question_text": "Choose the correctly spelled word.",
+    "options": ["Accommodate", "Acommodate", "Acommmodate", "Accomadate"],
+    "correct_answer": 0,
+    "topic": "Spellings"
+  },
+  {
+    "id": 94,
+    "question_text": "Which sentence is correct?",
+    "options": [
+      "The car has broke down.",
+      "The car has broken down.",
+      "The car break down.",
+      "The car broken down."
+    ],
+    "correct_answer": 1,
+    "topic": "Sentence Correction"
+  },
+  {
+    "id": 95,
+    "question_text": "Choose the one word substitute: 'A person who is legally qualified to give medical advice.'",
+    "options": ["Lawyer", "Doctor", "Pharmacist", "Surgeon"],
+    "correct_answer": 1,
+    "topic": "One Word Substitutes"
+  },
+  {
+    "id": 96,
+    "question_text": "Complete the sentence: 'He _____ for the train to arrive.'",
+    "options": ["wait", "waiting", "waited", "waits"],
+    "correct_answer": 2,
+    "topic": "Completing Statements"
+  },
+  {
+    "id": 97,
+    "question_text": "Which idiom means 'to work very hard'?",
+    "options": ["Burn the midnight oil", "Under the weather", "Throw in the towel", "Jump the gun"],
+    "correct_answer": 0,
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "id": 98,
+    "question_text": "Which word is the synonym of 'Important'?",
+    "options": ["Minor", "Significant", "Insignificant", "Trivial"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 99,
+    "question_text": "Which word is the antonym of 'Clean'?",
+    "options": ["Neat", "Tidy", "Dirty", "Organized"],
+    "correct_answer": 2,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 100,
+    "question_text": "Choose the correct indirect speech: 'He said, “I can finish it by tomorrow.”'",
+    "options": [
+      "He said that he could finish it by tomorrow.",
+      "He said that he can finish it by tomorrow.",
+      "He said that he could finish it by the next day.",
+      "He said that he can finish it by next day."
+    ],
+    "correct_answer": 2,
+    "topic": "Change of Speech"
+  },
+  {
+    "id": 101,
+    "question_text": "Which word is the synonym of 'Calm'?",
+    "options": ["Agitated", "Tranquil", "Loud", "Disturbed"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 102,
+    "question_text": "Which word is the antonym of 'Victory'?",
+    "options": ["Success", "Triumph", "Loss", "Achievement"],
+    "correct_answer": 2,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 103,
+    "question_text": "Choose the correctly spelled word.",
+    "options": ["Receieve", "Receive", "Recieve", "Recievee"],
+    "correct_answer": 1,
+    "topic": "Spellings"
+  },
+  {
+    "id": 104,
+    "question_text": "Complete the sentence: 'He is _____ than his brother.'",
+    "options": ["more tall", "taller", "tall", "tallest"],
+    "correct_answer": 1,
+    "topic": "Sentence Formation"
+  },
+  {
+    "id": 105,
+    "question_text": "Which sentence is correct?",
+    "options": [
+      "She don't have any money.",
+      "She does not has any money.",
+      "She doesn't have any money.",
+      "She does not have any moneys."
+    ],
+    "correct_answer": 2,
+    "topic": "Sentence Correction"
+  },
+  {
+    "id": 106,
+    "question_text": "Choose the one word substitute: 'A person who writes books.'",
+    "options": ["Poet", "Novelist", "Author", "Editor"],
+    "correct_answer": 2,
+    "topic": "One Word Substitutes"
+  },
+  {
+    "id": 107,
+    "question_text": "Complete the sentence: 'The team _____ to play tomorrow.'",
+    "options": ["is going", "are going", "were going", "was going"],
+    "correct_answer": 0,
+    "topic": "Completing Statements"
+  },
+  {
+    "id": 108,
+    "question_text": "Which idiom means 'to act quickly without thinking'?",
+    "options": ["Jump the gun", "Under the weather", "Break the ice", "Hit the sack"],
+    "correct_answer": 0,
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "id": 109,
+    "question_text": "Which word is the synonym of 'Lazy'?",
+    "options": ["Energetic", "Diligent", "Indolent", "Hardworking"],
+    "correct_answer": 2,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 110,
+    "question_text": "Which word is the antonym of 'Tough'?",
+    "options": ["Hard", "Soft", "Firm", "Rigid"],
+    "correct_answer": 1,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 111,
+    "question_text": "Choose the correct indirect speech: 'He said, “I will help you tomorrow.”'",
+    "options": [
+      "He said that he will help me tomorrow.",
+      "He said that he would help me the next day.",
+      "He said that he would help me tomorrow.",
+      "He said that he will help me the next day."
+    ],
+    "correct_answer": 1,
+    "topic": "Change of Speech"
+  },
+  {
+    "id": 112,
+    "question_text": "Complete the sentence: 'She _____ the cake for the party.'",
+    "options": ["bake", "bakes", "baked", "baking"],
+    "correct_answer": 2,
+    "topic": "Sentence Formation"
+  },
+  {
+    "id": 113,
+    "question_text": "Choose the correctly spelled word.",
+    "options": ["Enviroment", "Environment", "Envoronment", "Enviorment"],
+    "correct_answer": 1,
+    "topic": "Spellings"
+  },
+  {
+    "id": 114,
+    "question_text": "Which sentence is correct?",
+    "options": [
+      "The dogs is barking loudly.",
+      "The dog are barking loudly.",
+      "The dogs are barking loudly.",
+      "The dog was barking loudly."
+    ],
+    "correct_answer": 2,
+    "topic": "Sentence Correction"
+  },
+  {
+    "id": 115,
+    "question_text": "Choose the one word substitute: 'A person who flies an aircraft.'",
+    "options": ["Driver", "Pilot", "Navigator", "Captain"],
+    "correct_answer": 1,
+    "topic": "One Word Substitutes"
+  },
+  {
+    "id": 116,
+    "question_text": "Complete the sentence: 'She _____ the truth during the meeting.'",
+    "options": ["reveal", "revealing", "revealed", "reveals"],
+    "correct_answer": 2,
+    "topic": "Completing Statements"
+  },
+  {
+    "id": 117,
+    "question_text": "Which idiom means 'to relax'?",
+    "options": ["Take it easy", "Hit the nail on the head", "Hit the books", "Burn the midnight oil"],
+    "correct_answer": 0,
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "id": 118,
+    "question_text": "Which word is the synonym of 'Beautiful'?",
+    "options": ["Ugly", "Attractive", "Plain", "Hideous"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 119,
+    "question_text": "Which word is the antonym of 'Generous'?",
+    "options": ["Selfish", "Kind", "Benevolent", "Liberal"],
+    "correct_answer": 0,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 120,
+    "question_text": "Choose the correct indirect speech: 'She said, “I am writing a letter.”'",
+    "options": [
+      "She said that she was writing a letter.",
+      "She said that she is writing a letter.",
+      "She said that she has been writing a letter.",
+      "She said that she will be writing a letter."
+    ],
+    "correct_answer": 0,
+    "topic": "Change of Speech"
+  },
+
+    {
+      "id": 121,
+      "question_text": "Which word is the synonym of 'Brave'?",
+      "options": ["Cowardly", "Bold", "Timid", "Shy"],
+      "correct_answer": 1,
+      "topic": "Synonyms"
+    },
+    {
+      "id": 122,
+      "question_text": "Which word is the antonym of 'Weak'?",
+      "options": ["Feeble", "Strong", "Fragile", "Flimsy"],
+      "correct_answer": 1,
+      "topic": "Antonyms"
+    },
+    {
+      "id": 123,
+      "question_text": "Choose the correctly spelled word.",
+      "options": ["Apologise", "Appologize", "Apolagize", "Appolagise"],
+      "correct_answer": 0,
+      "topic": "Spellings"
+    },
+    {
+      "id": 124,
+      "question_text": "Complete the sentence: 'She _____ a new dress for the event.'",
+      "options": ["buy", "buys", "buying", "bought"],
+      "correct_answer": 3,
+      "topic": "Sentence Formation"
+    },
+    {
+      "id": 125,
+      "question_text": "Which sentence is correct?",
+      "options": [
+        "They doesn't like to swim.",
+        "They don't like to swim.",
+        "They do not likes to swim.",
+        "They doesn't likes to swim."
+      ],
+      "correct_answer": 1,
+      "topic": "Sentence Correction"
+    },
+    {
+      "id": 126,
+      "question_text": "Choose the one word substitute: 'A person who works for no pay.'",
+      "options": ["Donor", "Volunteer", "Benefactor", "Philanthropist"],
+      "correct_answer": 1,
+      "topic": "One Word Substitutes"
+    },
+    {
+      "id": 127,
+      "question_text": "Complete the sentence: 'The project was completed _____ the deadline.'",
+      "options": ["by", "on", "before", "at"],
+      "correct_answer": 2,
+      "topic": "Completing Statements"
+    },
+    {
+      "id": 128,
+      "question_text": "Which idiom means 'to reveal a secret'?",
+      "options": ["Let the cat out of the bag", "Hit the hay", "Bite the bullet", "Break the ice"],
+      "correct_answer": 0,
+      "topic": "Idioms and Phrases"
+    },
+    {
+      "id": 129,
+      "question_text": "Which word is the synonym of 'Elegant'?",
+      "options": ["Clumsy", "Graceful", "Awkward", "Rough"],
+      "correct_answer": 1,
+      "topic": "Synonyms"
+    },
+    {
+      "id": 130,
+      "question_text": "Which word is the antonym of 'Dangerous'?",
+      "options": ["Safe", "Harmful", "Perilous", "Risky"],
+      "correct_answer": 0,
+      "topic": "Antonyms"
+    },
+    {
+      "id": 131,
+      "question_text": "Choose the correct indirect speech: 'He said, “I am planning a trip.”'",
+      "options": [
+        "He said that he is planning a trip.",
+        "He said that he was planning a trip.",
+        "He said that he has been planning a trip.",
+        "He said that he will plan a trip."
+      ],
+      "correct_answer": 1,
+      "topic": "Change of Speech"
+    },
+    {
+      "id": 132,
+      "question_text": "Complete the sentence: 'The car _____ very fast when the accident happened.'",
+      "options": ["goes", "was going", "is going", "went"],
+      "correct_answer": 1,
+      "topic": "Sentence Formation"
+    },
+    {
+      "id": 133,
+      "question_text": "Choose the correctly spelled word.",
+      "options": ["Definately", "Definetly", "Definitely", "Definatelyy"],
+      "correct_answer": 2,
+      "topic": "Spellings"
+    },
+    {
+      "id": 134,
+      "question_text": "Which sentence is correct?",
+      "options": [
+        "I can plays the guitar.",
+        "I can playing the guitar.",
+        "I can play the guitar.",
+        "I can to play the guitar."
+      ],
+      "correct_answer": 2,
+      "topic": "Sentence Correction"
+    },
+    {
+      "id": 135,
+      "question_text": "Choose the one word substitute: 'A person who travels to space.'",
+      "options": ["Astronaut", "Pilot", "Navigator", "Explorer"],
+      "correct_answer": 0,
+      "topic": "One Word Substitutes"
+    },
+    {
+      "id": 136,
+      "question_text": "Complete the sentence: 'He _____ to the gym every morning.'",
+      "options": ["go", "going", "goes", "gone"],
+      "correct_answer": 2,
+      "topic": "Completing Statements"
+    },
+    {
+      "id": 137,
+      "question_text": "Which idiom means 'to start something new'?",
+      "options": ["Bite the dust", "Hit the road", "Turn over a new leaf", "Kick the bucket"],
+      "correct_answer": 2,
+      "topic": "Idioms and Phrases"
+    },
+    {
+      "id": 138,
+      "question_text": "Which word is the synonym of 'Fear'?",
+      "options": ["Bravery", "Courage", "Dread", "Valor"],
+      "correct_answer": 2,
+      "topic": "Synonyms"
+    },
+    {
+      "id": 139,
+      "question_text": "Which word is the antonym of 'Old'?",
+      "options": ["Ancient", "Elderly", "New", "Aged"],
+      "correct_answer": 2,
+      "topic": "Antonyms"
+    },
+    {
+      "id": 140,
+      "question_text": "Choose the correct indirect speech: 'She said, “I will finish the work tomorrow.”'",
+      "options": [
+        "She said that she would finish the work tomorrow.",
+        "She said that she will finish the work the next day.",
+        "She said that she would finish the work the next day.",
+        "She said that she will finish the work the day after tomorrow."
+      ],
+      "correct_answer": 2,
+      "topic": "Change of Speech"
+    },
+  {
+    "id": 141,
+    "question_text": "Which word is the synonym of 'Quiet'?",
+    "options": ["Noisy", "Silent", "Loud", "Talkative"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 142,
+    "question_text": "Which word is the antonym of 'Begin'?",
+    "options": ["Start", "Continue", "End", "Commence"],
+    "correct_answer": 2,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 143,
+    "question_text": "Choose the correctly spelled word.",
+    "options": ["Accomodation", "Acommodation", "Accommodation", "Accommadation"],
+    "correct_answer": 2,
+    "topic": "Spellings"
+  },
+  {
+    "id": 144,
+    "question_text": "Complete the sentence: 'She _____ the best singer in the competition.'",
+    "options": ["are", "was", "were", "is"],
+    "correct_answer": 1,
+    "topic": "Sentence Formation"
+  },
+  {
+    "id": 145,
+    "question_text": "Which sentence is correct?",
+    "options": [
+      "She don't go to school.",
+      "She doesn't goes to school.",
+      "She doesn't go to school.",
+      "She do not goes to school."
+    ],
+    "correct_answer": 2,
+    "topic": "Sentence Correction"
+  },
+  {
+    "id": 146,
+    "question_text": "Choose the one word substitute: 'A person who loves books.'",
+    "options": ["Writer", "Bibliophile", "Author", "Librarian"],
+    "correct_answer": 1,
+    "topic": "One Word Substitutes"
+  },
+  {
+    "id": 147,
+    "question_text": "Complete the sentence: 'The meeting was postponed _____ next week.'",
+    "options": ["by", "to", "for", "until"],
+    "correct_answer": 1,
+    "topic": "Completing Statements"
+  },
+  {
+    "id": 148,
+    "question_text": "Which idiom means 'to do something unnecessary'? ",
+    "options": [
+      "Add fuel to the fire",
+      "Kill two birds with one stone",
+      "Barking up the wrong tree",
+      "Carry coals to Newcastle"
+    ],
+    "correct_answer": 3,
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "id": 149,
+    "question_text": "Which word is the synonym of 'Beautiful'?",
+    "options": ["Ugly", "Pretty", "Dirty", "Plain"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 150,
+    "question_text": "Which word is the antonym of 'Weak'?",
+    "options": ["Strong", "Feeble", "Frail", "Brittle"],
+    "correct_answer": 0,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 151,
+    "question_text": "Choose the correct indirect speech: 'He said, “I have finished the report.”'",
+    "options": [
+      "He said that he has finished the report.",
+      "He said that he finished the report.",
+      "He said that he had finished the report.",
+      "He said that he will finish the report."
+    ],
+    "correct_answer": 2,
+    "topic": "Change of Speech"
+  },
+  {
+    "id": 152,
+    "question_text": "Complete the sentence: 'The children _____ playing in the park.'",
+    "options": ["were", "was", "is", "are"],
+    "correct_answer": 0,
+    "topic": "Sentence Formation"
+  },
+  {
+    "id": 153,
+    "question_text": "Choose the correctly spelled word.",
+    "options": ["Recieve", "Receive", "Recievee", "Recieve"],
+    "correct_answer": 1,
+    "topic": "Spellings"
+  },
+  {
+    "id": 154,
+    "question_text": "Which sentence is correct?",
+    "options": [
+      "They has finished their homework.",
+      "They had finish their homework.",
+      "They have finished their homework.",
+      "They has finishing their homework."
+    ],
+    "correct_answer": 2,
+    "topic": "Sentence Correction"
+  },
+  {
+    "id": 155,
+    "question_text": "Choose the one word substitute: 'A person who does not believe in God.'",
+    "options": ["Atheist", "Theist", "Agnostic", "Believer"],
+    "correct_answer": 0,
+    "topic": "One Word Substitutes"
+  },
+  {
+    "id": 156,
+    "question_text": "Complete the sentence: 'The plane will take off _____ time.'",
+    "options": ["on", "by", "at", "in"],
+    "correct_answer": 0,
+    "topic": "Completing Statements"
+  },
+  {
+    "id": 157,
+    "question_text": "Which idiom means 'to be in trouble'?",
+    "options": ["Hit the sack", "In hot water", "On cloud nine", "Break the ice"],
+    "correct_answer": 1,
+    "topic": "Idioms and Phrases"
+  },
+  {
+    "id": 158,
+    "question_text": "Which word is the synonym of 'Smart'?",
+    "options": ["Dull", "Intelligent", "Slow", "Lazy"],
+    "correct_answer": 1,
+    "topic": "Synonyms"
+  },
+  {
+    "id": 159,
+    "question_text": "Which word is the antonym of 'Dark'?",
+    "options": ["Light", "Gloomy", "Dim", "Shadow"],
+    "correct_answer": 0,
+    "topic": "Antonyms"
+  },
+  {
+    "id": 160,
+    "question_text": "Choose the correct indirect speech: 'They said, “We are going to the party.”'",
+    "options": [
+      "They said that they were going to the party.",
+      "They said that they are going to the party.",
+      "They said that they was going to the party.",
+      "They said that they has gone to the party."
+    ],
+    "correct_answer": 0,
+    "topic": "Change of Speech"
+  }
+]
